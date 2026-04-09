@@ -1,5 +1,3 @@
-This repository contains a Python implementation of the **Candidate Elimination Algorithm**, a core concept in Machine Learning used for finding the **Version Space** of a hypothesis. This project was developed as part of academic coursework in the **AI department**.
-
 ## 📝 Project Overview
 The Candidate Elimination algorithm is a concept learning method that finds the set of all hypotheses consistent with a given set of training examples. It maintains two boundaries:
 1.  **Specific Boundary ($S$):** The most specific hypotheses consistent with the data.
