@@ -54,4 +54,3 @@ Upon executing the notebook, the algorithm outputs the final Version Space:
 ### License
 This project is for educational purposes. Feel free to use the code for your own learning and development.
 
-Would you like to include a specific section on how the algorithm handles inconsistent data, or is this structure sufficient for your GitHub?
